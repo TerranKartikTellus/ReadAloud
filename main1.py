@@ -18,3 +18,6 @@ def text_to_speech(text_file):
 
 
 text_to_speech("text.txt")
+
+
+# https://github.com/TerranKartikTellus
