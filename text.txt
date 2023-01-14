@@ -1,0 +1,3 @@
+Hello! This program, called 'ReadAloud', converts text in the file 'saved.txt' to speech. 
+Simply run the 'main1.py' file using a python compiler to use it. 
+Experience powerful and clear voice conversion with ReadAloud.
