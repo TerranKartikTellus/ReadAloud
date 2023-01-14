@@ -3,6 +3,7 @@ import os
 
 
 def text_to_speech(text_file):
+    print("ReadAloud")
     with open(text_file, 'r') as f:
         text = f.read()
 
